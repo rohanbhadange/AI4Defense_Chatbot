@@ -66,9 +66,9 @@ export default function Index() {
                     Built with 🤖{" "}
                     <a
                       className="underline"
-                      href="https://github.com/ascorbic/daneel"
+                      href="https://www.afrl.af.mil/AFOSR/"
                     >
-                      Daneel
+                      AI4Defense @ GMU
                     </a>
                   </p>
                 </div>
